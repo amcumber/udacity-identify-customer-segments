@@ -161,3 +161,4 @@ old_runs/
 # Omit all Proprietery data
 *csv
 terms_and_conditions/
+Data_Dictionary.md
